@@ -15,5 +15,6 @@ public class App
         System.out.println("hello git master2");
         System.out.println("hello git hot-fix2");
         System.out.println("push test");
+        System.out.println("push test ssh");
     }
 }
