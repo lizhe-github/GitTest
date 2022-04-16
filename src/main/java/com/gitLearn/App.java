@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World! git test" );
         System.out.println("hello git2");
+        System.out.println("hello git3");
     }
 }
