@@ -13,5 +13,6 @@ public class App
         System.out.println("hello git3");
         System.out.println("hello hot-fix git1");
         System.out.println("hello git master2");
+        System.out.println("hello git hot-fix2");
     }
 }
